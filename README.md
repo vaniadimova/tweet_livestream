@@ -1,4 +1,4 @@
-Get real-time tweets and display on webpage with socket.io
+Get real-time tweets and display on webpage with socket.io needs MongoDB / data
 
 set a value target in the rules set if you want to change the subject
 in server / index.js
